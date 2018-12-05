@@ -1,0 +1,7 @@
+version: "1"
+rules:
+  - base: master
+    upstream: LIKO-12:master
+    autoMerge: false
+    autoMergeHardReset: true
+    
